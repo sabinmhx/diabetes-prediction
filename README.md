@@ -8,5 +8,6 @@ These are the algorithms used:
 5. Naive Bayes
 6. Gradient Boosting
 
-* Highest accuracy: 84.375 
+* Highest accuracy achieved: 84.375%
+* Highest ROC achieved: 80.12%
 * Algorithm: Random Forest.
