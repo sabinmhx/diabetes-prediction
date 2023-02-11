@@ -10,4 +10,4 @@ These are the algorithms used:
 
 * Highest accuracy achieved: 84.375%
 * Highest ROC achieved: 80.12%
-* Algorithm: Random Forest.
+* By using Algorithm: Random Forest.
