@@ -1,5 +1,5 @@
-## diabetes-prediction
-Diabetes Prediction System using Machine Learning Algorithms. <br>
+## Diabetes Prediction using ML Algorithms
+
 These are the algorithms used:
 1. Support Vector Machine (SVM)
 2. K-Nearest Neighbor (KNN)
