@@ -1,4 +1,4 @@
-# diabetes-prediction
+## diabetes-prediction
 Diabetes Prediction System using Machine Learning Algorithms. <br>
 These are the algorithms used:
 1. Support Vector Machine (SVM)
@@ -11,3 +11,6 @@ These are the algorithms used:
 * Highest accuracy achieved: 84.375%
 * Highest ROC achieved: 80.12%
 * By using Algorithm: Random Forest.
+
+## Results
+![Diabetes Prediction Accuracy and ROC Score](results.png)
